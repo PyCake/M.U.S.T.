@@ -1,4 +1,4 @@
-# M.U.S.T.
+# M.U.S.T. (Magical Update Script Thing)
 M.U.S.T. is a python script which allows you to publish updates and allows your users to download them without having to reinstall the file and is a MUST have for anybody who frequently updates their code.
 # Ok ok cool name but what is M.U.S.T.
 M.U.S.T. is a tool to help developers that frequently update their code. 
