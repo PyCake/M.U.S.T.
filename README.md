@@ -9,6 +9,8 @@ Well first the developer of the code must publish the code (which has to be in a
 # How do I use it?
 How to use it is described under the instruction.md
 # What is required to use it?
-You must have the ##latest## version of Python. We also recommend that you have IDLE as it makes it simple to run the code.
+You must have the latest version of Python. We also recommend that you have IDLE as it makes it simple to run the code.
+# Is it ready for use?
+No. It is currently having bug fixes and more applied. The first version (1.0.0) will be released when PyCake version PyLoDough 1.3.6 is released (March 9, 2016). This repo is here simply to display what it will be and how it will work, so please stay tuned and download it when it is ready!
 # ===>> IMPORTANT <<===
 Please read the license.md before downloading the script.
