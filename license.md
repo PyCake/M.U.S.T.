@@ -16,7 +16,7 @@ notified and an (2) is met.
 (4)If the Software is modified by the user (with the exception of the file that is created by the installer software)
 it may be used only in non-profit applications; modified code may NOT be used in any profit-application without the 
 express permission of the Author.
-(5)The Author reserves the right to refue use of the Software, change this license, and change the Software at any time.
+(5)The Author reserves the right to refuse use of the Software, change this license, and change the Software at any time.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
